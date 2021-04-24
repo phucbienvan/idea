@@ -1,11 +1,26 @@
 I. Admin
+	- login, logout admin
 	- Thiet ke database
-	- Phát triển quản lý danh mục
-	- Phát triển quản lý sản phẩm
-II. Frontend
-	- Home
-	- Danh mục sản phẩm
-	- Chi tiết sản phẩm
+	- Phát triển quản lý danh mục (them sua xoa)
+	- Phát triển quản lý sản phẩm (them sua xoa)
+	
+II. Store
+	- Customer (login, register, lotout)
+	- Danh sach san pham
+	- Danh muc san pham
+	- Preview san pham, mua san pham;
+	- Cart
+		+ Ghep bang: Products + bill_detail;
+		+ unit_price + quantity = total_price;
+		+ View Thanh toan thanh cong;
+		
+	
+	
+	
+	
+	
+	
+	
 Database: 
 shopping_cart
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
